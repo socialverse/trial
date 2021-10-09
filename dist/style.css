@@ -1,0 +1,51 @@
+header {
+    width: 100%;
+    margin: 6em 0;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+  font-family: 'Arvo', serif;
+  padding-top: 100px;
+}
+
+h4 {
+  color: #fa5b3d;
+  text-align: center;
+  font-weight: 400;
+}
+
+/* content */
+
+#content {
+    min-height: 100%;
+    position: relative;
+    top: 100px;
+}
+
+#container {
+    margin: 0 auto;
+    max-width: 60em;
+    width: 60%;
+    padding-bottom: 10em;
+}
+
+p {
+  font-style: italic;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover{
+  border-bottom: 2px solid #fa5b3d;
+}
+
+/*footer*/
+
+footer {
+  text-align: center;
+}
